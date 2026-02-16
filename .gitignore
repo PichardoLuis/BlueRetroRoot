@@ -20,3 +20,5 @@
 !third_party/
 !third_party/ogx360
 !third_party/ogx360/**
+
+!.gitattributes
