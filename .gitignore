@@ -12,6 +12,7 @@
 
 # --- allow SPI bridge scaffolding ---
 !AGENTS.md
+!.gitattributes
 !docs/
 !docs/**
 !scripts/
@@ -20,5 +21,3 @@
 !third_party/
 !third_party/ogx360
 !third_party/ogx360/**
-
-!.gitattributes
