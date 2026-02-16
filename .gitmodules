@@ -4,3 +4,6 @@
 [submodule "BlueRetro"]
 	path = BlueRetro
 	url = https://github.com/PichardoLuis/BlueRetro.git
+[submodule "third_party/ogx360"]
+	path = third_party/ogx360
+	url = https://github.com/PichardoLuis/ogx360.git
