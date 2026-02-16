@@ -3,4 +3,4 @@
 	url = https://github.com/espressif/esp-idf.git
 [submodule "BlueRetro"]
 	path = BlueRetro
-	url = https://github.com/darthcloud/BlueRetro.git
+	url = https://github.com/PichardoLuis/BlueRetro.git
